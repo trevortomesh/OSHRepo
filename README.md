@@ -6,7 +6,7 @@ This is where you describe your project in short. This will be where potential u
 
 ![alt text][logo]
 
-[logo]: https://github.com/trevortomesh/OSHRepo/tree/master/src/img/img1.jpg "Logo Title Text 2"
+[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img1.jpg "Logo Title Text 2"
 
 
 
