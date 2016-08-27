@@ -6,9 +6,9 @@ This is where you describe your project in short. This will be where potential u
 
 This specific project is an MSP430G2553 based game console. It was built for a conference and that's pretty much all I feel like writing about it because this is just an example, after all. It's a good idea to put some sort of picture of your completed project here like this -- but smaller: 
 
-![alt text][logo]
+![alt text][pic1]
 
-[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img1.jpg "Logo Title Text 2"
+[pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img1.jpg "Logo Title Text 2"
 
 
 
@@ -36,15 +36,15 @@ Build Instructions
 
 Here is where you give specific instructions about how the device is built. The more detail the better -- especially if your build is very complicated. Here you should include schematics of your build: 
 
-![alt text][logo]
+![alt text][pic2]
 
-[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
+[pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
 
 And a breadboard view is also a good idea. So we'll throw one in here as well. 
 
-![alt text][logo]
+![alt text][pic3]
 
-[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
+[pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img3.jpg "Logo Title Text 2"
 
 
 Usage
