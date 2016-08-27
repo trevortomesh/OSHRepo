@@ -62,7 +62,7 @@ If there are any special instructions on how to assemble the hardware, we should
 
 Firmware Installation
 =====================
-This is where you should describe how the firmware is installed onto the device. If it's really straightforward you may not need this section. However, if there are multiple libraries and componenets involved -- or if there is some sort of build process, this is a good place to put those instructions. For example: 
+This is where you should describe how the firmware is installed onto the device. If it's really straightforward you may not need this section. However, if there are multiple libraries and componenets involved -- or if there is some sort of build process, this is a good place to put those instructions. Most users just want to be able to copy-paste and upload the firmware without having to jump through a bunch of hoops. You should set it up for them. For example: 
 
 To install:
 ```bash
