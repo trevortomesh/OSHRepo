@@ -18,14 +18,14 @@ Requirements and Materials
 This is where you talk about what sort of libraries are required and what sort of hardware is needed:
 
 Software:
-* arduino-example-library
-* gcc-c++
+* energia-1.6.10E18
+* important libraries that need to be installed
 
 Bill of Materials:
 * 4 x push buttons
 * 12 x green LEDs
 * 1 x 4.7k resistor
-* 4 x 100 ohm resistor
+* 4 x 220 ohm resistor
 * 1 x slide switch
 * 1 x battery holder
 * 1 x breadboard
@@ -40,25 +40,26 @@ Here is where you give specific instructions about how the device is built. The 
 
 [pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
 
-And a breadboard view is also a good idea. So we'll throw one in here as well. 
+And a breadboard view is also a good idea. It gives the potential user a better idea of how to put the thing together. So we'll throw one in here as well. 
 
 ![alt text][pic3]
 
 [pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img3.jpg "Logo Title Text 2"
 
+If there are any special instructions on how to assemble the hardware, we should note it here as well. For example, if the user should solder things in a specific order, you should give them a heads-up. 
+
+Firmware Installation
+=====================
+This is where you should describe how the firmware is installed onto the device. If it's really straightforward you may not need this section. However, if there are multiple libraries and componenets involved -- or if there is some sort of build process, this is a good place to put those instructions. For example: 
+
+```bash
+sudo apt-get install myAwesomePackage
+make
+```
+
 
 Usage
 =====
-
-Get country of the visitor
-
-    GeoIP::getCountry();  // returns "United States"
-    
-Get country code of the visitor
-
-    GeoIP::getCountryCode();  // returns "US"
-
-Get region of the visitor
 
 
 Credits
