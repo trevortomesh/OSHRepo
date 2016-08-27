@@ -8,7 +8,7 @@ This specific project is an MSP430G2553 based game console. It was built for a c
 
 ![alt text][pic1]
 
-[pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img1.jpg "Logo Title Text 2"
+[pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img1.jpg "Logo Title Text 2"
 
 Repository Contents
 ============
@@ -50,13 +50,13 @@ Here is where you give specific instructions about how the device is built. The 
 
 ![alt text][pic2]
 
-[pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
+[pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg "Logo Title Text 2"
 
 And a breadboard view is also a good idea. It gives the potential user a better idea of how to put the thing together. So we'll throw one in here as well. 
 
 ![alt text][pic3]
 
-[pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img3.jpg "Logo Title Text 2"
+[pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img3.jpg "Logo Title Text 2"
 
 If there are any special instructions on how to assemble the hardware, we should note it here as well. For example, if the user should solder things in a specific order, you should give them a heads-up. 
 
