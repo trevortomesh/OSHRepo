@@ -2,7 +2,7 @@
 ===================================
 [![License](https://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/phpunit/phpunit)
 
-This is where you describe your project in short. This will be where potential users look to understand what your project is about -- and it's your chance to catch their eye. It's a good idea to put some sort of picture of your completed projec here like this: 
+This is where you describe your project in short. This will be where potential users look to understand what your project is about -- and it's your chance to catch their eye. It's a good idea to put some sort of picture of your completed project here like this: 
 
 ![alt text][logo]
 
@@ -10,11 +10,23 @@ This is where you describe your project in short. This will be where potential u
 
 
 
-Requirements
+Requirements and Materials
 ============
 
-* PHP >= 5.3.7
-* cURL Extension
+This is where you talk about what sort of libraries are required and what sort of hardware is needed:
+
+Software:
+* arduino-example-library
+* gcc-c++
+
+Bill of Materials:
+* 4 x push buttons
+* 12 x green LEDs
+* 1 x 4.7k resistor
+* 4 x 100 ohm resistor
+* 1 x slide switch
+* 1 x battery holder
+* 1 x breadboard
 
 Installation
 ============
