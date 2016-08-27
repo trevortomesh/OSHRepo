@@ -2,7 +2,9 @@
 ===================================
 [![License](https://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/phpunit/phpunit)
 
-This is where you describe your project in short. This will be where potential users look to understand what your project is about -- and it's your chance to catch their eye. It's a good idea to put some sort of picture of your completed project here like this: 
+This is where you describe your project in short. This will be where potential users look to understand what your project is about -- and it's your chance to catch their eye. 
+
+This specific project is an MSP430G2553 based game console. It was built for a conference and that's pretty much all I feel like writing about it because this is just an example, after all. It's a good idea to put some sort of picture of your completed project here like this -- but smaller: 
 
 ![alt text][logo]
 
@@ -27,21 +29,22 @@ Bill of Materials:
 * 1 x slide switch
 * 1 x battery holder
 * 1 x breadboard
+* 1 x MSP4302553
 
-Installation
-============
+Build Instructions
+==================
 
-    composer require buonzz/laravel-4-freegeoip:dev-master
+Here is where you give specific instructions about how the device is built. The more detail the better -- especially if your build is very complicated. Here you should include schematics of your build: 
 
-Add the service provider and facade in your config/app.php
+![alt text][logo]
 
-Service Provider
+[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
 
-    Buonzz\GeoIP\Laravel4\ServiceProviders\GeoIPServiceProvider
+And a breadboard view is also a good idea. So we'll throw one in here as well. 
 
-Facade
+![alt text][logo]
 
-    'GeoIP'            => 'Buonzz\GeoIP\Laravel4\Facades\GeoIP',
+[logo]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img2.jpg "Logo Title Text 2"
 
 
 Usage
