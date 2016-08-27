@@ -10,15 +10,27 @@ This specific project is an MSP430G2553 based game console. It was built for a c
 
 [pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/src/img/img1.jpg "Logo Title Text 2"
 
+Repository Contents
+============
+Here's where you'll provide a map of all the top-level contents (where applicable):
 
+* **/src** - Here's where the software for your device goes (.ino, .cpp).
+* **/hardware** - All the PCB design files / 3D models (.ftz, .brd, .sch, .stl).
+* **/build** - Files that are compiled and ready to run / upload.
+* **/libraries** - Any libraries that are needed to build your software for your device.
+* **/examples** - Example files that can be run on your hardware. 
+* **/img** - This is where the image files for this readme are! Yay!
+* **/LICENSE** - The license file.
+* **/README.md** - The file you're reading now! :-D
 
 Requirements and Materials
 ============
 
 This is where you talk about what sort of libraries are required and what sort of hardware is needed:
 
-Software:
-* energia-1.6.10E18
+Dependencies:
+* energia-1.6.10E18 https://www.energia.nu
+* msp430 command-line flasher https://www.ti.com/tool/msp430-flasher
 * important libraries that need to be installed
 
 Bill of Materials:
@@ -52,18 +64,35 @@ Firmware Installation
 =====================
 This is where you should describe how the firmware is installed onto the device. If it's really straightforward you may not need this section. However, if there are multiple libraries and componenets involved -- or if there is some sort of build process, this is a good place to put those instructions. For example: 
 
+To install:
 ```bash
-sudo apt-get install myAwesomePackage
-make
+MSP430Flasher.exe -n Unknown -w "MyGameFile_v1.2.txt" -v -g -z [VCC]
+
 ```
 
 
 Usage
 =====
+This is usually where you tell the user how the device works. Do you just upload the software and flip a switch? What sort of things does this thing do? Are there alternate settings / modes / programs that might be good to mention. This is where you tell the user exactly how the device or program is used. For example: 
+
+* Upload the code to the thing. 
+* Turn the thing on. 
+* The thing will do a thing and it'll be really cool. 
+* Don't forget to feed the badgers!
+
+Team
+=====
+The build team consists of: 
+* Trevor Tomesh -- I did everything.
+* Joe McSchmoe -- He didn't do anything useful. 
+* Alison Roberts -- She made me food.
+
+Maybe say something about how people can contribute here?
 
 
 Credits
 =======
 
-* Alexandre Fiori for the awesome http://freegeoip.net web api
-* MaxMind for the data
+This is where you give credit to any third parties that you borrowed from. 
+
+* Kenneth Reitz - consultation on directory structure
