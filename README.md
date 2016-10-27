@@ -60,6 +60,11 @@ And a breadboard view is also a good idea. It gives the potential user a better 
 
 [pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img3.jpg "Logo Title Text 2"
 
+! [alt_text][pic4]
+  
+[pic4]: https://github.com/trevortomesh/OSHRepo/blob/master/folderName/joystick.png "This is some alt text"
+
+
 If there are any special instructions on how to assemble the hardware, we should note it here as well. For example, if the user should solder things in a specific order, you should give them a heads-up. 
 
 Firmware Installation
