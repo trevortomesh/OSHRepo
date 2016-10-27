@@ -60,7 +60,7 @@ And a breadboard view is also a good idea. It gives the potential user a better 
 
 [pic3]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img3.jpg "Logo Title Text 2"
 
-! [alt_text][pic4]
+![alt_text][pic4]
   
 [pic4]: https://github.com/trevortomesh/OSHRepo/blob/master/folderName/joystick.png "This is some alt text"
 
