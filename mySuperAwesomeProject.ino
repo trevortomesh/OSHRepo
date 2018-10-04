@@ -1,5 +1,5 @@
 void doathing(){
 
- int codeForArduino = 0; 
+ int codeForArduino = 1; 
 
 }
