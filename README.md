@@ -51,7 +51,8 @@ Here is where you give specific instructions about how the device is built. The 
 
 ![alt text][pic2]
 
-[pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg "Logo Title Text 2"
+[pic2]: (https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg =500) "Logo Title Text 2"
+
 
 And a breadboard view is also a good idea. It gives the potential user a better idea of how to put the thing together. So we'll throw one in here as well. 
 
