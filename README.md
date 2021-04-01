@@ -9,6 +9,8 @@ This specific project is an MSP430G2553 based game console. It was built for a c
 
 
 [pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img1.jpg "Logo Title Text 2"
+![alt text][pic1]
+
 
 Repository Contents
 ============
@@ -25,8 +27,6 @@ Here's where you'll provide a map of all the top-level contents (where applicabl
 
 Requirements and Materials
 ============
-
-![alt text][pic1]
 
 This is where you talk about what sort of libraries are required and what sort of hardware is needed:
 
