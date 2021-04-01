@@ -26,7 +26,9 @@ Here's where you'll provide a map of all the top-level contents (where applicabl
 Requirements and Materials
 ============
 
-![pic2](https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg =100x20)
+![alt text][pic2]
+
+![pic2]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg =100x20
 
 This is where you talk about what sort of libraries are required and what sort of hardware is needed:
 
