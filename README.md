@@ -27,7 +27,6 @@ Requirements and Materials
 ============
 
 ![alt text][pic1]
-[pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img2.jpg
 
 This is where you talk about what sort of libraries are required and what sort of hardware is needed:
 
