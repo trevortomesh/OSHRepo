@@ -7,7 +7,6 @@ This is where you describe your project in short. This will be where potential u
 
 This specific project is an MSP430G2553 based game console. It was built for a conference and that's pretty much all I feel like writing about it because this is just an example, after all. It's a good idea to put some sort of picture of your completed project here like this -- but smaller: 
 
-![alt text][pic1]
 
 [pic1]: https://github.com/trevortomesh/OSHRepo/blob/master/img/img1.jpg "Logo Title Text 2"
 
