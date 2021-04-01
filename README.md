@@ -99,5 +99,5 @@ Credits
 
 This is where you give credit to any third parties that you borrowed from. 
 
-* Kenneth Reitz - consultation on directory structure
-* My wonderful class. :-)
+* Reitz, K. (2016, August). Private consultation on repository standards. 
+* Smith, J (2011) GraphicsDrawer source code (Version 2.0) [Source code]. http://www.graphicsdrawer.com
